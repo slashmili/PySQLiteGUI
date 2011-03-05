@@ -1,0 +1,18 @@
+------- Release 0.0.8RC0 ---------
+11.06.2007
+  - when clicked button close, confirm close
+  - after execute sql last sql save in history about closing database 
+06.06.2007 
+  - BUFFIX: add IntegrityError except for execute sql error (Thanks to Armin Borumand)
+  - After execute sql if return any record show records in data view
+  - Add refresh button to update data
+  - BUFFIX: after open database, columns did not empty form last open table  (Thanks to Armin Borumand)
+  - BUFFIX: after create table table name entry did not clear (Thanks to Armin Borumand)
+  - BUGFIX: nasty error when leave empty value in rename table (Thanks to Armin Borumand)
+------- Release 0.0.7 ---------
+30.05.2007
+  - 70% of project done.source available on SVN 
+------- Release 0.0.0 ---------
+15.05.2007
+  - Start Project (Milad Rastian)
+

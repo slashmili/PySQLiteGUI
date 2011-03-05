@@ -1,0 +1,13 @@
+pySQLiteGUI	
+---------------
+
+Requires:
+  - python (http://python.org)
+  - pygtk (http://www.pygtk.org)
+  - pysqlite2 (http://www.initd.org/tracker/pysqlite)
+ 
+How to run:
+tar -xjf pySQLiteGUI-XXX.tar,bz2
+cd pySQLiteGUI
+cd src
+python pysqlitegui.py

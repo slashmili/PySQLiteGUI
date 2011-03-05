@@ -1,0 +1,6 @@
+pysqlitegui:
+	if some word like delete or drop is in sql open question box 
+	add new,edit and delete tables rows
+	edit table structure
+	change sql execute box to TextView  
+	enable create triger ,view and functions
